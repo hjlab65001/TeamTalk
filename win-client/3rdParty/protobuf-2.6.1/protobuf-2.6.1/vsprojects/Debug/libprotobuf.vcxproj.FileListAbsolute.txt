@@ -1,0 +1,1 @@
+D:\github_project\TeamTalk\win-client\3rdParty\protobuf-2.6.1\protobuf-2.6.1\vsprojects\Debug\libprotobuf.lib

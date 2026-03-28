@@ -1,0 +1,17 @@
+2026-03-28 03:42:12 teamtalk.cpp(CteamtalkApp::InitInstance,42) [app] -> ===================================VersionNO:1======BulidTime£ºMar 28 2026--03:41:32==========================
+2026-03-28 03:42:12 teamtalk.cpp(CteamtalkApp::InitInstance,68) [app] -> start imcore lib done
+2026-03-28 03:42:12 teamtalk.cpp(CteamtalkApp::InitInstance,76) [app] -> start ui event done
+2026-03-28 03:42:12 SysConfigModule_Impl.cpp(SysConfigModule_Impl::_loadData,59) [error] -> _loadData system config file is not exist
+2026-03-28 03:42:17 ServerConfigDialog.cpp(ServerConfigDialog::_InitlizeSetting,89) [error] -> _InitlizeSetting,¶ÁÈ¡ÉèÖÃÊ§°Ü
+2026-03-28 03:42:34 LoginDialog.cpp(LoginDialog::_DoLogin,150) [app] -> User Clicked LoginBtn
+2026-03-28 03:42:34 DoLoginServerHttpOperation.cpp(DoLoginServerHttpOperation::processOpertion,24) [app] -> loginAddr = http://access.teamtalk.im:8080/msg_server
+2026-03-28 03:42:34 DoLoginServerHttpOperation.cpp(DoLoginServerHttpOperation::processOpertion,38) [error] -> failed http://access.teamtalk.im:8080/msg_server
+2026-03-28 03:42:34 LoginDialog.cpp(LoginDialog::OnHttpCallbackOperation,221) [error] -> get MsgServer config faild,login server addres:http://access.teamtalk.im:8080/msg_server:0
+2026-03-28 03:42:37 teamtalk.cpp(CteamtalkApp::InitInstance,100) [error] -> login canceled
+2026-03-28 03:42:37 teamtalk.cpp(CteamtalkApp::ExitInstance,141) [app] -> Exit Instance
+2026-03-28 03:42:37 teamtalk.cpp(CteamtalkApp::ExitInstance,145) [app] -> close http pool done
+2026-03-28 03:42:37 teamtalk.cpp(CteamtalkApp::ExitInstance,148) [app] -> close tcpclient socket done
+2026-03-28 03:42:37 teamtalk.cpp(CteamtalkApp::ExitInstance,151) [app] -> stop imcore lib done
+2026-03-28 03:42:37 teamtalk.cpp(CteamtalkApp::ExitInstance,154) [app] -> stop ui event done
+2026-03-28 03:42:37 teamtalk.cpp(CteamtalkApp::ExitInstance,157) [app] -> MainDialog Destory done
+2026-03-28 03:42:37 teamtalk.cpp(CteamtalkApp::ExitInstance,164) [app] -> Exit OK

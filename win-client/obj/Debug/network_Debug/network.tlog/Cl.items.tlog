@@ -1,0 +1,16 @@
+D:\github_project\TeamTalk\win-client\3rdParty\src\yaolog\yaolog.cpp;D:\github_project\TeamTalk\win-client\obj\Debug\network_Debug\yaolog.obj
+D:\github_project\TeamTalk\win-client\core\network\BaseSocket.cpp;D:\github_project\TeamTalk\win-client\obj\Debug\network_Debug\BaseSocket.obj
+D:\github_project\TeamTalk\win-client\core\network\dllmain.cpp;D:\github_project\TeamTalk\win-client\obj\Debug\network_Debug\dllmain.obj
+D:\github_project\TeamTalk\win-client\core\network\EventDispatch.cpp;D:\github_project\TeamTalk\win-client\obj\Debug\network_Debug\EventDispatch.obj
+D:\github_project\TeamTalk\win-client\core\network\imconn.cpp;D:\github_project\TeamTalk\win-client\obj\Debug\network_Debug\imconn.obj
+D:\github_project\TeamTalk\win-client\core\network\ImCore.cpp;D:\github_project\TeamTalk\win-client\obj\Debug\network_Debug\ImCore.obj
+D:\github_project\TeamTalk\win-client\core\network\Lock.cpp;D:\github_project\TeamTalk\win-client\obj\Debug\network_Debug\Lock.obj
+D:\github_project\TeamTalk\win-client\core\network\netlib.cpp;D:\github_project\TeamTalk\win-client\obj\Debug\network_Debug\netlib.obj
+D:\github_project\TeamTalk\win-client\core\network\network.cpp;D:\github_project\TeamTalk\win-client\obj\Debug\network_Debug\network.obj
+D:\github_project\TeamTalk\win-client\core\network\Operation.cpp;D:\github_project\TeamTalk\win-client\obj\Debug\network_Debug\Operation.obj
+D:\github_project\TeamTalk\win-client\core\network\OperationManager.cpp;D:\github_project\TeamTalk\win-client\obj\Debug\network_Debug\OperationManager.obj
+D:\github_project\TeamTalk\win-client\core\network\stdafx.cpp;D:\github_project\TeamTalk\win-client\obj\Debug\network_Debug\stdafx.obj
+D:\github_project\TeamTalk\win-client\core\network\TcpSocketsManager.cpp;D:\github_project\TeamTalk\win-client\obj\Debug\network_Debug\TcpSocketsManager.obj
+D:\github_project\TeamTalk\win-client\core\network\TTPBHeader.cpp;D:\github_project\TeamTalk\win-client\obj\Debug\network_Debug\TTPBHeader.obj
+D:\github_project\TeamTalk\win-client\core\network\util.cpp;D:\github_project\TeamTalk\win-client\obj\Debug\network_Debug\util.obj
+D:\github_project\TeamTalk\win-client\core\network\UtilPdu.cpp;D:\github_project\TeamTalk\win-client\obj\Debug\network_Debug\UtilPdu.obj

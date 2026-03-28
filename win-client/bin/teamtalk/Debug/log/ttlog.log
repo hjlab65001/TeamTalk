@@ -1,0 +1,24 @@
+2026-03-28 03:25:30 teamtalk.cpp(CteamtalkApp::InitInstance,42) [app] -> ===================================VersionNO:1======BulidTime£ºMar 28 2026--03:25:11==========================
+2026-03-28 03:25:30 teamtalk.cpp(CteamtalkApp::InitInstance,68) [app] -> start imcore lib done
+2026-03-28 03:25:30 teamtalk.cpp(CteamtalkApp::InitInstance,76) [app] -> start ui event done
+2026-03-28 03:25:30 SysConfigModule_Impl.cpp(SysConfigModule_Impl::_loadData,59) [error] -> _loadData system config file is not exist
+2026-03-28 03:25:34 teamtalk.cpp(CteamtalkApp::InitInstance,100) [error] -> login canceled
+2026-03-28 03:25:34 teamtalk.cpp(CteamtalkApp::ExitInstance,141) [app] -> Exit Instance
+2026-03-28 03:25:34 teamtalk.cpp(CteamtalkApp::ExitInstance,145) [app] -> close http pool done
+2026-03-28 03:25:34 teamtalk.cpp(CteamtalkApp::ExitInstance,148) [app] -> close tcpclient socket done
+2026-03-28 03:25:34 teamtalk.cpp(CteamtalkApp::ExitInstance,151) [app] -> stop imcore lib done
+2026-03-28 03:25:34 teamtalk.cpp(CteamtalkApp::ExitInstance,154) [app] -> stop ui event done
+2026-03-28 03:25:34 teamtalk.cpp(CteamtalkApp::ExitInstance,157) [app] -> MainDialog Destory done
+2026-03-28 03:25:34 teamtalk.cpp(CteamtalkApp::ExitInstance,164) [app] -> Exit OK
+2026-03-28 03:25:45 teamtalk.cpp(CteamtalkApp::InitInstance,42) [app] -> ===================================VersionNO:1======BulidTime£ºMar 28 2026--03:25:11==========================
+2026-03-28 03:25:45 teamtalk.cpp(CteamtalkApp::InitInstance,68) [app] -> start imcore lib done
+2026-03-28 03:25:45 teamtalk.cpp(CteamtalkApp::InitInstance,76) [app] -> start ui event done
+2026-03-28 03:25:49 ServerConfigDialog.cpp(ServerConfigDialog::_InitlizeSetting,89) [error] -> _InitlizeSetting,¶ÁÈ¡ÉèÖÃÊ§°Ü
+2026-03-28 03:25:58 teamtalk.cpp(CteamtalkApp::InitInstance,100) [error] -> login canceled
+2026-03-28 03:25:58 teamtalk.cpp(CteamtalkApp::ExitInstance,141) [app] -> Exit Instance
+2026-03-28 03:25:58 teamtalk.cpp(CteamtalkApp::ExitInstance,145) [app] -> close http pool done
+2026-03-28 03:25:58 teamtalk.cpp(CteamtalkApp::ExitInstance,148) [app] -> close tcpclient socket done
+2026-03-28 03:25:58 teamtalk.cpp(CteamtalkApp::ExitInstance,151) [app] -> stop imcore lib done
+2026-03-28 03:25:58 teamtalk.cpp(CteamtalkApp::ExitInstance,154) [app] -> stop ui event done
+2026-03-28 03:25:58 teamtalk.cpp(CteamtalkApp::ExitInstance,157) [app] -> MainDialog Destory done
+2026-03-28 03:25:58 teamtalk.cpp(CteamtalkApp::ExitInstance,164) [app] -> Exit OK

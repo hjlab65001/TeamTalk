@@ -1,0 +1,10 @@
+^D:\GITHUB_PROJECT\TEAMTALK\SERVER\SRC\LIBSECURITY\SRC\BUILD\CMAKEFILES\691AD9F8D180AC769BFCBEEB4BB50193\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/github_project/TeamTalk/server/src/libsecurity/src -BD:/github_project/TeamTalk/server/src/libsecurity/src/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/github_project/TeamTalk/server/src/libsecurity/src/build/security.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

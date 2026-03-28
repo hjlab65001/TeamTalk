@@ -1,0 +1,15 @@
+D:\github_project\TeamTalk\win-client\3rdParty\src\http\httpclient\base64.cpp;D:\github_project\TeamTalk\win-client\obj\Debug\httpclient_Debug\base64.obj
+D:\github_project\TeamTalk\win-client\3rdParty\src\http\httpclient\dll_init.cpp;D:\github_project\TeamTalk\win-client\obj\Debug\httpclient_Debug\dll_init.obj
+D:\github_project\TeamTalk\win-client\3rdParty\src\http\httpclient\file_reader.cpp;D:\github_project\TeamTalk\win-client\obj\Debug\httpclient_Debug\file_reader.obj
+D:\github_project\TeamTalk\win-client\3rdParty\src\http\httpclient\file_writer.cpp;D:\github_project\TeamTalk\win-client\obj\Debug\httpclient_Debug\file_writer.obj
+D:\github_project\TeamTalk\win-client\3rdParty\src\http\httpclient\http_client.cpp;D:\github_project\TeamTalk\win-client\obj\Debug\httpclient_Debug\http_client.obj
+D:\github_project\TeamTalk\win-client\3rdParty\src\http\httpclient\http_header_parser.cpp;D:\github_project\TeamTalk\win-client\obj\Debug\httpclient_Debug\http_header_parser.obj
+D:\github_project\TeamTalk\win-client\3rdParty\src\http\httpclient\http_post_file.cpp;D:\github_project\TeamTalk\win-client\obj\Debug\httpclient_Debug\http_post_file.obj
+D:\github_project\TeamTalk\win-client\3rdParty\src\http\httpclient\http_request.cpp;D:\github_project\TeamTalk\win-client\obj\Debug\httpclient_Debug\http_request.obj
+D:\github_project\TeamTalk\win-client\3rdParty\src\http\httpclient\http_response.cpp;D:\github_project\TeamTalk\win-client\obj\Debug\httpclient_Debug\http_response.obj
+D:\github_project\TeamTalk\win-client\3rdParty\src\http\httpclient\http_response_receiver.cpp;D:\github_project\TeamTalk\win-client\obj\Debug\httpclient_Debug\http_response_receiver.obj
+D:\github_project\TeamTalk\win-client\3rdParty\src\http\httpclient\proxy_socket .cpp;D:\github_project\TeamTalk\win-client\obj\Debug\httpclient_Debug\proxy_socket .obj
+D:\github_project\TeamTalk\win-client\3rdParty\src\http\httpclient\socket_helper.cpp;D:\github_project\TeamTalk\win-client\obj\Debug\httpclient_Debug\socket_helper.obj
+D:\github_project\TeamTalk\win-client\3rdParty\src\http\httpclient\streaming_socket.cpp;D:\github_project\TeamTalk\win-client\obj\Debug\httpclient_Debug\streaming_socket.obj
+D:\github_project\TeamTalk\win-client\3rdParty\src\http\httpclient\url_parser.cpp;D:\github_project\TeamTalk\win-client\obj\Debug\httpclient_Debug\url_parser.obj
+D:\github_project\TeamTalk\win-client\3rdParty\src\http\httpclient\util.cpp;D:\github_project\TeamTalk\win-client\obj\Debug\httpclient_Debug\util.obj

@@ -1,0 +1,16 @@
+D:\github_project\TeamTalk\win-client\3rdParty\src\yaolog\yaolog.cpp;D:\github_project\TeamTalk\win-client\obj\Release\network_Release\yaolog.obj
+D:\github_project\TeamTalk\win-client\core\network\BaseSocket.cpp;D:\github_project\TeamTalk\win-client\obj\Release\network_Release\BaseSocket.obj
+D:\github_project\TeamTalk\win-client\core\network\dllmain.cpp;D:\github_project\TeamTalk\win-client\obj\Release\network_Release\dllmain.obj
+D:\github_project\TeamTalk\win-client\core\network\EventDispatch.cpp;D:\github_project\TeamTalk\win-client\obj\Release\network_Release\EventDispatch.obj
+D:\github_project\TeamTalk\win-client\core\network\imconn.cpp;D:\github_project\TeamTalk\win-client\obj\Release\network_Release\imconn.obj
+D:\github_project\TeamTalk\win-client\core\network\ImCore.cpp;D:\github_project\TeamTalk\win-client\obj\Release\network_Release\ImCore.obj
+D:\github_project\TeamTalk\win-client\core\network\Lock.cpp;D:\github_project\TeamTalk\win-client\obj\Release\network_Release\Lock.obj
+D:\github_project\TeamTalk\win-client\core\network\netlib.cpp;D:\github_project\TeamTalk\win-client\obj\Release\network_Release\netlib.obj
+D:\github_project\TeamTalk\win-client\core\network\network.cpp;D:\github_project\TeamTalk\win-client\obj\Release\network_Release\network.obj
+D:\github_project\TeamTalk\win-client\core\network\Operation.cpp;D:\github_project\TeamTalk\win-client\obj\Release\network_Release\Operation.obj
+D:\github_project\TeamTalk\win-client\core\network\OperationManager.cpp;D:\github_project\TeamTalk\win-client\obj\Release\network_Release\OperationManager.obj
+D:\github_project\TeamTalk\win-client\core\network\stdafx.cpp;D:\github_project\TeamTalk\win-client\obj\Release\network_Release\stdafx.obj
+D:\github_project\TeamTalk\win-client\core\network\TcpSocketsManager.cpp;D:\github_project\TeamTalk\win-client\obj\Release\network_Release\TcpSocketsManager.obj
+D:\github_project\TeamTalk\win-client\core\network\TTPBHeader.cpp;D:\github_project\TeamTalk\win-client\obj\Release\network_Release\TTPBHeader.obj
+D:\github_project\TeamTalk\win-client\core\network\util.cpp;D:\github_project\TeamTalk\win-client\obj\Release\network_Release\util.obj
+D:\github_project\TeamTalk\win-client\core\network\UtilPdu.cpp;D:\github_project\TeamTalk\win-client\obj\Release\network_Release\UtilPdu.obj

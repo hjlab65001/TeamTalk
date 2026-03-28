@@ -1,0 +1,3 @@
+D:/github_project/TeamTalk/server/src/libsecurity/src/build/CMakeFiles/security.dir
+D:/github_project/TeamTalk/server/src/libsecurity/src/build/CMakeFiles/ALL_BUILD.dir
+D:/github_project/TeamTalk/server/src/libsecurity/src/build/CMakeFiles/ZERO_CHECK.dir

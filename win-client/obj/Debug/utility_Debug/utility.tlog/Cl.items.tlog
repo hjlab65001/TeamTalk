@@ -1,0 +1,12 @@
+D:\github_project\TeamTalk\win-client\3rdParty\src\json\src\lib_json\json_reader.cpp;D:\github_project\TeamTalk\win-client\obj\Debug\utility_Debug\json_reader.obj
+D:\github_project\TeamTalk\win-client\3rdParty\src\json\src\lib_json\json_value.cpp;D:\github_project\TeamTalk\win-client\obj\Debug\utility_Debug\json_value.obj
+D:\github_project\TeamTalk\win-client\3rdParty\src\json\src\lib_json\json_writer.cpp;D:\github_project\TeamTalk\win-client\obj\Debug\utility_Debug\json_writer.obj
+D:\github_project\TeamTalk\win-client\core\utility\CppSQLite3.cpp;D:\github_project\TeamTalk\win-client\obj\Debug\utility_Debug\CppSQLite3.obj
+D:\github_project\TeamTalk\win-client\core\utility\IniOperation.cpp;D:\github_project\TeamTalk\win-client\obj\Debug\utility_Debug\IniOperation.obj
+D:\github_project\TeamTalk\win-client\core\utility\md5.cpp;D:\github_project\TeamTalk\win-client\obj\Debug\utility_Debug\md5.obj
+D:\github_project\TeamTalk\win-client\core\utility\Multilingual.cpp;D:\github_project\TeamTalk\win-client\obj\Debug\utility_Debug\Multilingual.obj
+D:\github_project\TeamTalk\win-client\core\utility\stdafx.cpp;D:\github_project\TeamTalk\win-client\obj\Debug\utility_Debug\stdafx.obj
+D:\github_project\TeamTalk\win-client\core\utility\TTThread.cpp;D:\github_project\TeamTalk\win-client\obj\Debug\utility_Debug\TTThread.obj
+D:\github_project\TeamTalk\win-client\core\utility\utilCommonAPI.cpp;D:\github_project\TeamTalk\win-client\obj\Debug\utility_Debug\utilCommonAPI.obj
+D:\github_project\TeamTalk\win-client\core\utility\utility.cpp;D:\github_project\TeamTalk\win-client\obj\Debug\utility_Debug\utility.obj
+D:\github_project\TeamTalk\win-client\core\utility\utilStrCodingAPI.cpp;D:\github_project\TeamTalk\win-client\obj\Debug\utility_Debug\utilStrCodingAPI.obj

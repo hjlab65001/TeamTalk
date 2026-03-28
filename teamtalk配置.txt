@@ -1,0 +1,46 @@
+20260328
+
+
+客户端配置
+teamtalk win32配置
+
+
+
+#error:  <hash_map> is deprecated and will be REMOVED. Please use <unordered_map>. You can define _SILENCE_STDEXT_HASH_DEPRECATION_WARNINGS to suppress this error.
+
+
+_SILENCE_STDEXT_HASH_DEPRECATION_WARNINGS
+_WINSOCK_DEPRECATED_NO_WARNINGS
+
+
+严重性	代码	说明	项目	文件	行	抑制状态	详细信息
+错误	C4996	'gethostbyname': Use getaddrinfo() or GetAddrInfoW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings	network	D:\github_project\TeamTalk\win-client\core\network\BaseSocket.cpp	289		
+
+
+//typedef char			int8_t;
+//typedef short			int16_t;
+//typedef int				int32_t;
+//typedef	long long		int64_t;
+//typedef unsigned char	uint8_t;
+//typedef unsigned short	uint16_t;
+//typedef unsigned int	uint32_t;
+//typedef	unsigned long long	uint64_t;
+编译security时注释掉了
+
+
+注意32 64位编译库的兼容性（编译32用于32位）
+
+
+
+
+utility.lib
+network.lib
+DuiLib.lib
+Modules.lib
+httpclient.lib
+libprotobuf-lite.lib
+
+
+
+服务端配置
+

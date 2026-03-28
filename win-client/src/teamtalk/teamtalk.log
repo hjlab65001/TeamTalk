@@ -1,0 +1,13 @@
+﻿  stdafx.cpp
+D:\github_project\TeamTalk\win-client\core\DuiLib\Core\UIManager.h(16,14): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::EVENTTYPE_UI”的左侧
+  (编译源文件“stdafx.cpp”)
+  
+  teamtalk.cpp
+  MainDialog.cpp
+  MainDialog_Event.cpp
+  MainDialog_TrayIcon.cpp
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 613 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  teamtalk.vcxproj -> D:\github_project\TeamTalk\win-client\bin\teamtalk\Release\teamtalk.exe

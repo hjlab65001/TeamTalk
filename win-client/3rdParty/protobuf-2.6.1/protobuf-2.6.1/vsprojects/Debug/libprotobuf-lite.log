@@ -1,0 +1,18 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1133,5): warning MSB4211: 正在首次将属性“GetTargetPathDependsOn”设置为某个值，但已在“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets (2243,5)”处使用了该属性。
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(538,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(libprotobuf.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+cl : 命令行  warning D9035: “Gm”选项已否决，并将在将来的版本中移除
+  wire_format_lite.cc
+  stringprintf.cc
+  once.cc
+  common.cc
+  atomicops_internals_x86_msvc.cc
+  repeated_field.cc
+  message_lite.cc
+  zero_copy_stream_impl_lite.cc
+  zero_copy_stream.cc
+  coded_stream.cc
+  generated_message_util.cc
+  extension_set.cc
+  正在生成代码...
+D:\github_project\TeamTalk\win-client\3rdParty\protobuf-2.6.1\protobuf-2.6.1\src\google\protobuf\extension_set.cc(74,1): warning C4715: “google::protobuf::internal::`anonymous namespace'::is_packable”: 不是所有的控件路径都返回值
+  libprotobuf-lite.vcxproj -> D:\github_project\TeamTalk\win-client\3rdParty\protobuf-2.6.1\protobuf-2.6.1\vsprojects\Debug\libprotobuf-lite.lib

@@ -1,0 +1,14 @@
+# VS 编译缓存
+win-client/solution/.vs/
+win-client/Debug/
+win-client/Release/
+win-client/*.obj
+win-client/*.pdb
+win-client/*.exe
+win-client/*.dll
+win-client/*.ipch
+win-client/*.log
+
+# 系统垃圾
+Thumbs.db
+.DS_Store

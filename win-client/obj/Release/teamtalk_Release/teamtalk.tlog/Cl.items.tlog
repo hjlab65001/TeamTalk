@@ -1,0 +1,5 @@
+D:\github_project\TeamTalk\win-client\src\teamtalk\stdafx.cpp;D:\github_project\TeamTalk\win-client\obj\Release\teamtalk_Release\stdafx.obj
+D:\github_project\TeamTalk\win-client\src\teamtalk\teamtalk.cpp;D:\github_project\TeamTalk\win-client\obj\Release\teamtalk_Release\teamtalk.obj
+D:\github_project\TeamTalk\win-client\src\teamtalk\UI\MainDialog.cpp;D:\github_project\TeamTalk\win-client\obj\Release\teamtalk_Release\MainDialog.obj
+D:\github_project\TeamTalk\win-client\src\teamtalk\UI\MainDialog_Event.cpp;D:\github_project\TeamTalk\win-client\obj\Release\teamtalk_Release\MainDialog_Event.obj
+D:\github_project\TeamTalk\win-client\src\teamtalk\UI\MainDialog_TrayIcon.cpp;D:\github_project\TeamTalk\win-client\obj\Release\teamtalk_Release\MainDialog_TrayIcon.obj

@@ -1,0 +1,112 @@
+﻿  StdAfx.cpp
+D:\github_project\TeamTalk\win-client\core\DuiLib\Core\UIManager.h(16,14): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::EVENTTYPE_UI”的左侧
+  (编译源文件“StdAfx.cpp”)
+  
+D:\github_project\TeamTalk\win-client\core\DuiLib\Control\UIMenu.h(72,54): warning C4251: “ReceiverImpl<BOOL,DuiLib::ContextMenuParam>::observers_”:“std::map<int,ObserverImplBase<ReturnT,ParamT> *,std::less<int>,std::allocator<std::pair<const int,ObserverImplBase<ReturnT,ParamT> *>>>”需要有 dll 接口以供“ReceiverImpl<BOOL,DuiLib::ContextMenuParam>”的客户端使用
+D:\github_project\TeamTalk\win-client\core\DuiLib\Control\UIMenu.h(72,54): warning C4251:         with
+D:\github_project\TeamTalk\win-client\core\DuiLib\Control\UIMenu.h(72,54): warning C4251:         [
+D:\github_project\TeamTalk\win-client\core\DuiLib\Control\UIMenu.h(72,54): warning C4251:             ReturnT=BOOL,
+D:\github_project\TeamTalk\win-client\core\DuiLib\Control\UIMenu.h(72,54): warning C4251:             ParamT=DuiLib::ContextMenuParam
+D:\github_project\TeamTalk\win-client\core\DuiLib\Control\UIMenu.h(72,54): warning C4251:         ]
+  (编译源文件“StdAfx.cpp”)
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\map(72,7):
+      参见“std::map<int,ObserverImplBase<ReturnT,ParamT> *,std::less<int>,std::allocator<std::pair<const int,ObserverImplBase<ReturnT,ParamT> *>>>”的声明
+          with
+          [
+              ReturnT=BOOL,
+              ParamT=DuiLib::ContextMenuParam
+          ]
+  
+  UIGifAnim.cpp
+  UIMenu.cpp
+  UIlib.cpp
+  DialogManager.cpp
+  UIShadow.cpp
+  WinImplBase.cpp
+  UIDelegate.cpp
+  Utils.cpp
+  UIBase.cpp
+  UIContainer.cpp
+  UIControl.cpp
+D:\github_project\TeamTalk\win-client\core\DuiLib\Core\UIControl.cpp(676,40): warning C4302: “类型强制转换”: 从“LPWSTR”到“WORD”截断
+  (编译源文件“/Core/UIControl.cpp”)
+  
+  UIDlgBuilder.cpp
+  UIManager.cpp
+  UIMarkup.cpp
+  UIRender.cpp
+D:\github_project\TeamTalk\win-client\core\DuiLib\Core\UIRender.cpp(1121,61): warning C4838: 从“int”转换到“COLOR16”需要收缩转换
+  (编译源文件“/Core/UIRender.cpp”)
+  
+D:\github_project\TeamTalk\win-client\core\DuiLib\Core\UIRender.cpp(1121,86): warning C4838: 从“int”转换到“COLOR16”需要收缩转换
+  (编译源文件“/Core/UIRender.cpp”)
+  
+D:\github_project\TeamTalk\win-client\core\DuiLib\Core\UIRender.cpp(1121,111): warning C4838: 从“int”转换到“COLOR16”需要收缩转换
+  (编译源文件“/Core/UIRender.cpp”)
+  
+D:\github_project\TeamTalk\win-client\core\DuiLib\Core\UIRender.cpp(1122,66): warning C4838: 从“int”转换到“COLOR16”需要收缩转换
+  (编译源文件“/Core/UIRender.cpp”)
+  
+D:\github_project\TeamTalk\win-client\core\DuiLib\Core\UIRender.cpp(1122,92): warning C4838: 从“int”转换到“COLOR16”需要收缩转换
+  (编译源文件“/Core/UIRender.cpp”)
+  
+D:\github_project\TeamTalk\win-client\core\DuiLib\Core\UIRender.cpp(1122,118): warning C4838: 从“int”转换到“COLOR16”需要收缩转换
+  (编译源文件“/Core/UIRender.cpp”)
+  
+  UIChildLayout.cpp
+  UIHorizontalLayout.cpp
+D:\github_project\TeamTalk\win-client\core\DuiLib\Layout\UIHorizontalLayout.cpp(270,37): warning C4302: “类型强制转换”: 从“LPWSTR”到“WORD”截断
+  (编译源文件“/Layout/UIHorizontalLayout.cpp”)
+  
+  UITabLayout.cpp
+  UITileLayout.cpp
+  UIVerticalLayout.cpp
+D:\github_project\TeamTalk\win-client\core\DuiLib\Layout\UIVerticalLayout.cpp(253,37): warning C4302: “类型强制转换”: 从“LPWSTR”到“WORD”截断
+  (编译源文件“/Layout/UIVerticalLayout.cpp”)
+  
+  正在生成代码...
+  正在编译...
+  UIActiveX.cpp
+  UIButton.cpp
+D:\github_project\TeamTalk\win-client\core\DuiLib\Control\UIButton.cpp(117,35): warning C4302: “类型强制转换”: 从“LPWSTR”到“WORD”截断
+  (编译源文件“/Control/UIButton.cpp”)
+  
+  UICheckBox.cpp
+  UICombo.cpp
+  UIComboBox.cpp
+  UIDateTime.cpp
+D:\github_project\TeamTalk\win-client\core\DuiLib\Control\UIDateTime.cpp(231,35): warning C4302: “类型强制转换”: 从“LPWSTR”到“WORD”截断
+  (编译源文件“/Control/UIDateTime.cpp”)
+  
+  UIEdit.cpp
+D:\github_project\TeamTalk\win-client\core\DuiLib\Control\UIEdit.cpp(208,35): warning C4302: “类型强制转换”: 从“LPWSTR”到“WORD”截断
+  (编译源文件“/Control/UIEdit.cpp”)
+  
+  UIFlash.cpp
+  UILabel.cpp
+  UIList.cpp
+D:\github_project\TeamTalk\win-client\core\DuiLib\Control\UIList.cpp(1460,44): warning C4302: “类型强制转换”: 从“LPWSTR”到“WORD”截断
+  (编译源文件“/Control/UIList.cpp”)
+  
+D:\github_project\TeamTalk\win-client\core\DuiLib\Control\UIList.cpp(2010,48): warning C4302: “类型强制转换”: 从“LPWSTR”到“WORD”截断
+  (编译源文件“/Control/UIList.cpp”)
+  
+  UIOption.cpp
+  UIProgress.cpp
+  UIRichEdit.cpp
+  UIScrollBar.cpp
+  UISlider.cpp
+D:\github_project\TeamTalk\win-client\core\DuiLib\Control\UISlider.cpp(243,36): warning C4302: “类型强制转换”: 从“LPWSTR”到“WORD”截断
+  (编译源文件“/Control/UISlider.cpp”)
+  
+  UIText.cpp
+D:\github_project\TeamTalk\win-client\core\DuiLib\Control\UIText.cpp(52,37): warning C4302: “类型强制转换”: 从“LPWSTR”到“WORD”截断
+  (编译源文件“/Control/UIText.cpp”)
+  
+  UITreeView.cpp
+  UIWebBrowser.cpp
+  正在生成代码...
+  stb_image.c
+  XUnzip.cpp
+    正在创建库 D:\github_project\TeamTalk\win-client\solution\..\lib\Release\DuiLib.lib 和对象 D:\github_project\TeamTalk\win-client\solution\..\lib\Release\DuiLib.exp
+  DuiLib.vcxproj -> D:\github_project\TeamTalk\win-client\bin\teamtalk\Release\DuiLib.dll

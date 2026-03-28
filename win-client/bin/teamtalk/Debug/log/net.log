@@ -1,0 +1,6 @@
+2026-03-28 03:25:30 ImCore.cpp(imcore::IMLibCoreRunEvent,252) [net] -> ===============================================================================
+2026-03-28 03:25:30 ImCore.cpp(imcore::event_run,19) [net] -> event_run
+2026-03-28 03:25:34 ImCore.cpp(imcore::IMLibCoreShutdown,339) [net] -> shutdown key:0
+2026-03-28 03:25:45 ImCore.cpp(imcore::IMLibCoreRunEvent,252) [net] -> ===============================================================================
+2026-03-28 03:25:45 ImCore.cpp(imcore::event_run,19) [net] -> event_run
+2026-03-28 03:25:58 ImCore.cpp(imcore::IMLibCoreShutdown,339) [net] -> shutdown key:0
